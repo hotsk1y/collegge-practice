@@ -1,0 +1,21 @@
+if else:
+	task1 (1)
+	task2 (1)
+	task3 (1)
+
+strings:
+	task1 (1)
+	task2 (1)
+	task3 (1)
+	task4 (4)
+
+functions:
+	task5 (1)
+	task11 (3)
+
+LocalStorage:
+	task2 (1)
+	task4 (1)
+
+TOTAL POINTS: 16
+
