@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <Day1 />
+    <Day3 />
   </div>
 </template>
 
 <script>
 
-import Day1 from './components/Day1/Day1'
+import Day3 from './components/Day3/Day3'
 
 export default {
   name: 'App',
   components: {
-    Day1,
+    Day3,
   }
 }
 </script>
