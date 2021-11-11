@@ -1,17 +1,23 @@
 <template>
   <div id="app">
-    <Day3 />
+    <Day4 />
+<!--    <Task1 />-->
+<!--    <Task2 />-->
   </div>
 </template>
 
 <script>
 
-import Day3 from './components/Day3/Day3'
+import Day4 from './components/Day4/Day4.vue'
+// import Task1 from './components/Day4/Task1.vue'
+// import Task2 from './components/Day4/Task2.vue'
 
 export default {
   name: 'App',
   components: {
-    Day3,
+    Day4,
+    // Task1,
+    // Task2
   }
 }
 </script>
